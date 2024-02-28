@@ -1,2 +1,0 @@
-model_checkpoint_path: "tacotron_model.ckpt-206500"
-all_model_checkpoint_paths: "tacotron_model.ckpt-206500"
